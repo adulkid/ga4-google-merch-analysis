@@ -1,0 +1,13 @@
+fail_type,depth_bin,session_cnt,pct
+explore_fail,1,107624,76.86
+explore_fail,2,17201,12.28
+explore_fail,3,6898,4.93
+explore_fail,4,3479,2.48
+explore_fail,5+,4824,3.45
+instantly_fail,0,131938,100.0
+pass_to_view_item,0,40,0.05
+pass_to_view_item,1,43992,49.9
+pass_to_view_item,2,12584,14.27
+pass_to_view_item,3,7439,8.44
+pass_to_view_item,4,5420,6.15
+pass_to_view_item,5+,18690,21.2

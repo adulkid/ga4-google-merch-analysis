@@ -1,0 +1,8 @@
+step,stage,cnt,prev_cnt,retention_rate,drop_off_rate
+1,session_start,360129,,,
+2,view_item,88165,360129,24.48,75.52
+3,add_to_cart,15188,88165,17.23,82.77
+4,begin_checkout,11106,15188,73.12,26.88
+5,add_shipping_info,11105,11106,99.99,0.01
+6,add_payment_info,6815,11105,61.37,38.63
+7,purchase,4848,6815,71.14,28.86
