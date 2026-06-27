@@ -21,7 +21,7 @@ pdf를 확인해주세요.
 SQL (BigQuery), Python (pandas, matplotlib, seaborn, statsmodels)
 
 ## 레포 구조
-\'\'\'
+```
 ga4-funnel-analysis/
 ├── README.md
 ├── queries/
@@ -29,7 +29,7 @@ ga4-funnel-analysis/
 │   ├── 02. 첫 퍼널 이탈 세션 분류 (segment classfication).sql
 │   ├── 03. 그룹별 카테고리 수요 (category demand).sql
 │   ├── 04. 1차 퍼널 유형별 탐색 깊이 (explore depth).sql
-│   ├── 05. 외부요인 베재 (external factors).sql
+│   ├── 05. 외부요인 배제 (external factors).sql
 │   ├── 06. 기준선 CTR (baseline CTR).sql
 │   └── 07. 객단가 (AOV, Average Order Value).sql
 ├── analysis.ipynb
@@ -38,7 +38,7 @@ ga4-funnel-analysis/
 ├── images/
 │   └── *.png
 └── AB_test_표본크기.py
-\'\'\'
+```
 
 ## 분석 흐름
 
