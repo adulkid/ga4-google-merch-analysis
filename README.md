@@ -14,7 +14,7 @@ Google Merchandise Store의 GA4 공개 데이터셋(2020.11~2021.01, 약 430만 
 
 ## 전체 분석 보고서
 
-pdf를 확인해주세요.
+[Notion 보고서 링크] https://app.notion.com/p/GA4-37791bab7ce9803484a0f3920173dd8a?source=copy_link
 
 ## 기술 스택
 
